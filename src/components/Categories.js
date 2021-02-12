@@ -8,9 +8,9 @@ const Categories = () => (
   <div>
     <ul>
       {
-        categories.map((categorie, index) => (
+        categories.map((category, index) => (
           <li key={index}>
-            <Link to={`/categorie/${index}`}>{categorie.name}</Link>
+            <Link to={`/category/${index}`}>{category.name}</Link>
           </li>
         ))
       }

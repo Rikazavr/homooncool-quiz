@@ -19,7 +19,7 @@ export default function Main() {
 
         <Switch>
           <Route exact path="/" component={Categories} />
-          <Route path="/categories/:index" component={Category} />
+          <Route path="/category/:index" component={Category} />
         </Switch>
       </main>
     </Router>
