@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "name": "олдскул",
+      "questions": [
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        }
+      ]
+    },
+    {
+      "name": "golden",
+      "questions": [
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        }
+      ]
+    },
+    {
+      "name": "new school",
+      "questions": [
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        }
+      ]
+    }
+  ]
+}

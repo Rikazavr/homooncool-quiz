@@ -1,8 +1,9 @@
 import React from "react";
-import Question from './Question';
 
-const Category = props => {
-  return <h1>категория</h1>;
-}
+const Category = () => (
+  <div>
+    категория
+  </div>
+);
 
 export default Category;
