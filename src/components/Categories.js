@@ -1,21 +1,19 @@
 import React from "react";
-import { Link } from 'react-router-dom';
+import Questions from './Questions';
 
-import data from '../data/questions.json';
-const categories = data.categories;
-
-const Categories = () => (
-  <div>
-    <ul>
+const Categories = ({ categories }) => {
+  return (
+    <section className="categories">
       {
         categories.map((category, index) => (
-          <li key={index}>
-            <Link to={`/category/${index}`}>{category.name}</Link>
-          </li>
+          <div key={index} className="category">
+            <h2 className="category__name">{category.name}</h2>
+            <Questions questions={category.questions} />
+          </div>
         ))
       }
-    </ul>
-  </div>
-);
+    </section>
+  )
+};
 
 export default Categories;

@@ -7,19 +7,32 @@ import {
 } from "react-router-dom";
 
 import Categories from './Categories';
-import Category from './Category';
+import Question from './Question';
+
+import data from '../data/questions.json';
+const categories = data.categories;
 
 export default function Main() {
   return (
     <Router>
-      <main>
-        <header>
+      <main className="main">
+        <header className="header">
           <Link to="/">гомункул викторина</Link>
         </header>
 
         <Switch>
-          <Route exact path="/" component={Categories} />
-          <Route path="/category/:index" component={Category} />
+          <Route
+            exact path="/"
+            render={(props) => (
+              <Categories {...props} categories={categories} />
+            )}
+          />
+          <Route
+            exact path="/question/:index"
+            render={(props) => (
+              <Question {...props} />
+            )}
+          />
         </Switch>
       </main>
     </Router>

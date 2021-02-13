@@ -4,18 +4,57 @@
       "name": "олдскул",
       "questions": [
         {
+          "value": "10",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "20",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "30",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "40",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "50",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "60",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "70",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "80",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "90",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "100",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "150",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         }
@@ -25,18 +64,57 @@
       "name": "golden",
       "questions": [
         {
+          "value": "10",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "20",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "30",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "40",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "50",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "60",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "70",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "80",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "90",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "100",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "150",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         }
@@ -46,18 +124,57 @@
       "name": "new school",
       "questions": [
         {
+          "value": "10",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "20",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "30",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         },
         {
+          "value": "40",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "50",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "60",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "70",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "80",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "90",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "100",
+          "type": "song",
+          "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
+        },
+        {
+          "value": "150",
           "type": "song",
           "link": "https://homooncool.s3.eu-west-2.amazonaws.com/golden/00/00.mp3"
         }
