@@ -8,7 +8,7 @@ const Categories = ({ categories }) => {
         categories.map((category, index) => (
           <div key={index} className="category">
             <h2 className="category__name">{category.name}</h2>
-            <Questions questions={category.questions} />
+            <Questions category={category} />
           </div>
         ))
       }

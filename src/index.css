@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #F3C3F2;
+  background-color: #FFCADE;
   color: #000;
 }
 
@@ -44,7 +44,18 @@ body {
   text-align: center;
   font-size: 28px;
   font-weight: bold;
+  color: #000;
   background-color: #fff;
+}
+
+.question:last-child {
+  background-color: red;
+  color: #fff;
+}
+
+.question:visited {
+  background: #FAE6EE;
+  color: #C4C2C2;
 }
 
 .questionPage {

@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "олдскул",
+      "name": "oldschool",
       "questions": [
         {
           "value": "10",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "new school",
+      "name": "newschool",
       "questions": [
         {
           "value": "10",
